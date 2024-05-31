@@ -239,4 +239,10 @@ int main(){
 
   removeMiddle(6);
   printDataFilm();
+
+  removeFirst();
+  printDataFilm();
+
+  removeLast();
+  printDataFilm();
 }
